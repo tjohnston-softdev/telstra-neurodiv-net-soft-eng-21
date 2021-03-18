@@ -1,0 +1,16 @@
+{
+  "name": "unit-tests",
+  "version": "1.0.0",
+  "description": "Telstra Neurodiversity Program 2021 - Network Software Engineer - Unit Tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "author": "Tyrone Johnston",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2",
+    "validator": "^13.5.2"
+  }
+}

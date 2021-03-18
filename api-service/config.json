@@ -1,0 +1,5 @@
+{
+	"restPort": 8080,
+	"mongoPort": 27017,
+	"mongoDbName": "tjohnston"
+}
